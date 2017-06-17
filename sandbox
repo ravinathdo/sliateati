@@ -1,0 +1,10 @@
+    <!-- Courses -->
+        <section id="courses">
+            <div class="about">
+                <div class="container">
+                    <h1> Courses </h1>
+                     <h3>GALLERY</h3>
+                </div>
+            </div>
+        </section>
+        <!-- /Courses -->
